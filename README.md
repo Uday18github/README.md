@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-path/profile.jpg" alt="Uday Sai Profile" width="180" style="border-radius:50%;"/>
+  <img src="https://udaysai-portfolio.vercel.app/assets/profile-BdMpizPs.jpg" alt="Uday Sai Profile" width="180" style="border-radius:50%;"/>
 </p>
 
 <h1 align="center">Hi there, I'm Uday Sai! 👋</h1>
@@ -14,7 +14,7 @@
   <a href="https://udaysai-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <img src="https://udaysai-portfolio.vercel.app/assets/profile-BdMpizPs.jpg" alt="profile-views"/>
+  <img src="https://komarev.com/ghpvc/?username=Uday18github&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile-views"/>
 </p>
 
 ---
