@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://udaysai-portfolio.vercel.app/assets/profile-BdMpizPs.jpg" alt="Uday Sai Profile" width="180" style="border-radius:50%;"/>
-</p>
+
 
 <h1 align="center">Hi there, I'm Uday Sai! 👋</h1>
 
